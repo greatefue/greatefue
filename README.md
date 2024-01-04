@@ -1,6 +1,6 @@
 ### Hi there, I'm Great 👋
 
-I am an accomplished full-stack software developer with over 5 years of experience across the Financial and Tech industries. This includes decision-making, upgrading, contributing, and developing Enterprise SAAS like Compliance Planet AML Software (Efuelite Solutions LTD).
+I am an accomplished full-stack software developer with over 5 years of experience across the Financial and Tech industries. This includes decision-making, upgrading, contributing, and developing Enterprise SAAS .
 
 I have a deep passion for computer science and a special interest in applying artificial intelligence to commercial and scientific solutions. 
 
